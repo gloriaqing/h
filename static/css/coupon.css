@@ -1,0 +1,37 @@
+.cp{
+				height: 120px;
+				margin-top: 15px;
+				border: 1px gainsboro solid;
+				border-radius: 5px;
+				box-shadow: 3px 3px 3px #EC971F;
+			}
+			.cp-money-type{
+				font-size: 14px;
+			}
+			.cp-money{
+				line-height: 80px;
+				color: orange;
+			}
+			.cp-content{
+				padding: 0px;
+			}
+			.cp-use{
+				font-size: 14px;
+				margin-top: 15px;
+				margin-left: 0px;
+			}
+			.cp-content{
+				margin-top: 5px;
+				margin-left: -5px;
+			}
+			.cp-surplus{
+				margin-top: 10px;
+				margin-left: 0px;
+			}
+			.cp-title{
+				margin-top: 5px;
+				margin-left: 0px;
+			}
+			.cp-title span{
+				font-size: 16px;
+			}
